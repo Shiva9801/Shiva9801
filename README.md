@@ -1,7 +1,7 @@
 
 # Hi there! 👋
 
-I'm Shiva, and here's a snapshot of my GitHub stats:
+I'm Shivam Kumar, and here's a snapshot of my GitHub stats:
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiva9801&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&langs_count=5) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva9801&hide_border=true) |
 |---|---|
