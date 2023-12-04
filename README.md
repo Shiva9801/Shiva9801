@@ -20,6 +20,7 @@ My Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,java,py,discord,eclipse,git,github,gitlab,linux,ps,pr)](https://skillicons.dev)
 
 
+[![An image of @Shivam Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shiva9801)](https://holopin.io/@shiva9801)
 
 Feel free to explore my contributions! 😊
 
