@@ -18,9 +18,17 @@ GitHub Streak:
 
 My Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,java,py,discord,eclipse,git,github,gitlab,linux,ps,pr)](https://skillicons.dev)
+HackSquad
+[badge](https://www.hacksquad.dev/ticket/Shiva9801/)
+[![An image of @Shivam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shiva9801)](https://holopin.io/@shiva9801)
+<div>
+  <a align="center" href="https://cloud.appwrite.io/card/656b49169cdb3f0a714e"> <img align="center" width="35%" src="https://cloud.appwrite.io/v1/cards/cloud?userId=656b49169cdb3f0a714e" alt="Appwrite Cloud Card" /></a>
+  
+<img align="center" width="40%" src="https://raw.githubusercontent.com/Shiva9801/Shiva9801/main/hacksquad.png" alt="Octohub" />
 
 
-[![An image of @Shivam Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shiva9801)](https://holopin.io/@shiva9801)
+</div>
+
 
 Feel free to explore my contributions! 😊
 
