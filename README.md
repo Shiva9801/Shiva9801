@@ -18,7 +18,7 @@ GitHub Streak:
 
 My Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,java,py,discord,eclipse,git,github,gitlab,linux,ps,pr)](https://skillicons.dev)
-HackSquad
+
 [badge](https://www.hacksquad.dev/ticket/Shiva9801/)
 [![An image of @Shivam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shiva9801)](https://holopin.io/@shiva9801)
 <div>
