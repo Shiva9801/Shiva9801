@@ -17,7 +17,7 @@ GitHub Streak:
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shiva9801&theme=carbonfox&hide_border=true&date_format=j%2Fn%5B%2FY%5D&ring=5EEB0B&fire=3AEBE5)
 
 My Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,java,py,discord,eclipse,git,github,gitlab,linux,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,java,py,c,cpp,discord,eclipse,git,github,gitlab,linux,ps,pr&perline=8 )](https://skillicons.dev)
 
 
 [![An image of @Shivam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shiva9801)](https://holopin.io/@shiva9801)
