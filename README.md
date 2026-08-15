@@ -67,9 +67,7 @@ A Python framework orchestrating multiple LLM agents through structured, multi-t
 <br/>
 🏅 Badges
 <div align="center">
-<a href="https://cloud.appwrite.io/card/656b49169cdb3f0a714e">
-  <img align="center" width="35%" src="https://cloud.appwrite.io/v1/cards/cloud?userId=656b49169cdb3f0a714e" alt="Appwrite Cloud Card" />
-</a>
+
 <img align="center" width="40%" src="https://github.com/Shiva9801/Shiva9801/blob/main/hacksquad.png" alt="HackSquad" />
 </div>
 <br/>
